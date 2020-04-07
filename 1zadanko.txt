@@ -1,1 +1,3 @@
-print 'Dinozaur'
+print('Dinozaur')
+if mousePressed:
+    print('Dinozaury')
