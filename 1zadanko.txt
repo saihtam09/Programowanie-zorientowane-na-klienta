@@ -1,3 +1,4 @@
 print('Dinozaur')
 if mousePressed:
     print('Dinozaury')
+    Fajen dinozaury!
